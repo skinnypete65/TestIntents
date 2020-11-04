@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="goToActivity2">Перейти в MainActivity2</string>
+    <string name="goToToInf">Перейти в ToInfActivity</string>
+    <string name="goBack">Вернуться назад</string>
+    <string name="checkActivity2">Проверка MainActivity2</string>
+    <string name="written">Вы ввели:</string>
+    <string name="goToComeBack">Перейти в ComeBackActivity</string>
+    <string name="writesmt">Введите, что нужно вернуть в MainActivity</string>
+    <string name="send">Отправить</string>
+</resources>
